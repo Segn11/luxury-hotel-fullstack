@@ -67,5 +67,7 @@ After running `seed_rooms`, log into `http://localhost:8000/admin/` with usernam
 
 A modern, responsive hotel website built with **React**, **TailwindCSS**, and a Django REST backend. The experience pages showcase suites, dining, events, a booking wizard, and a contact flow backed by a flexible reservations API.
 
+## Deployment: https://luxury-hotel-fullstack-fv8e.vercel.app/
+
 
 
